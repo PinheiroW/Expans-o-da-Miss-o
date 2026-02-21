@@ -1,0 +1,32 @@
+{
+  "ConfigVersion": 22,
+  "ID": 801,
+  "Type": 1,
+  "Title": "Norman: Fuga da Prisão",
+  "Descriptions": [
+    "Disseram-me que um dos nossos rapazes está preso em Devil's Castle. Toma este Lockpick, entra lá e tira-o de lá. Ele tem informações que não podem cair nas mãos erradas.",
+    "O batedor está à tua espera na cela. Usa a gazuza!",
+    "Missão cumprida. O batedor já está seguro e o relatório de inteligência está nas mãos do Clark. Bom trabalho, toma isto."
+  ],
+  "ObjectiveText": "Infiltre-se no castelo, destranque a porta e resgate o Batedor.",
+  "QuestGiverIDs": [1],
+  "QuestTurnInIDs": [1],
+  "Objectives": [
+    { "ConfigVersion": 28, "ID": 803, "ObjectiveType": 3 },
+    { "ConfigVersion": 28, "ID": 804, "ObjectiveType": 4 },
+    { "ConfigVersion": 28, "ID": 805, "ObjectiveType": 9 }
+  ],
+  "QuestItems": [
+    {
+      "ClassName": "Lockpick",
+      "Amount": 1
+    }
+  ],
+  "Rewards": [
+    { "ClassName": "Mag_CMAG_30Rnd_Black", "Amount": 3, "Chance": 1.0 },
+    { "ClassName": "Ammo_556x45", "Amount": 1, "Chance": 1.0 }
+  ],
+  "DeleteQuestItems": 1,
+  "ReputationReward": 400,
+  "Active": 1
+}

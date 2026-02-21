@@ -1,0 +1,13 @@
+{
+  "ConfigVersion": 6,
+  "ID": 1,
+  "ClassName": "ExpansionQuestNPCDenis",
+  "Position": [4283.647949, 325.231110, 5454.728027],
+  "Orientation": [-50.409973, 0.000000, 0.000000],
+  "NPCName": "Norman",
+  "DefaultNPCText": "Precisamos de ajuda tática lá fora.",
+  "NPCLoadoutFile": "NBCLoadout",
+  "NPCType": 0,
+  "QuestIDs": [777, 779, 800, 801],
+  "Active": 1
+}

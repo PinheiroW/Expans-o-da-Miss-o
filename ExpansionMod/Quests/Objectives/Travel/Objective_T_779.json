@@ -1,0 +1,15 @@
+{
+  "ConfigVersion": 28,
+  "ID": 779,
+  "ObjectiveType": 3,
+  "ObjectiveText": "Chegue à Base Militar de Vybor (VMC).",
+  "TimeLimit": -1,
+  "Active": 1,
+  "Position": [4540.55, 317.51, 8317.73],
+  "MaxDistance": 150.0,
+  "MinDistance": -1.0,
+  "MarkerName": "VMC - Acampamento Inimigo",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0
+}

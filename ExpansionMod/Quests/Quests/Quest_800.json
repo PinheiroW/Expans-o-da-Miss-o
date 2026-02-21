@@ -1,0 +1,23 @@
+{
+  "ConfigVersion": 22,
+  "ID": 800,
+  "Type": 1,
+  "Title": "Norman: Céu em Chamas",
+  "Descriptions": [
+    "Derrubaram um dos nossos pássaros perto de Vybor. Os Shamans já lá estão. Infiltra-te, limpa a zona e traz-me a caixa de munições que estava a bordo.",
+    "O fumo do heli ainda está no ar. Recupera aquela caixa!",
+    "Bom trabalho. Sem estas munições, a resistência estaria lixada. Toma o teu pagamento."
+  ],
+  "QuestGiverIDs": [1],
+  "QuestTurnInIDs": [1],
+  "Objectives": [
+    { "ConfigVersion": 28, "ID": 800, "ObjectiveType": 3 },
+    { "ConfigVersion": 28, "ID": 801, "ObjectiveType": 8 },
+    { "ConfigVersion": 28, "ID": 802, "ObjectiveType": 1 }
+  ],
+  "Rewards": [
+    { "ClassName": "ExpansionBanknoteEuro", "Amount": 5000, "Chance": 1.0 }
+  ],
+  "ReputationReward": 300,
+  "Active": 1
+}

@@ -1,0 +1,109 @@
+23:35:37.109 [Expansion Quests] Initialize quest system on the connected client with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+23:35:37.113 [Expansion Quests] Loaded existing player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+23:35:37.113 [Expansion Quests] Sending gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= quest configs to client for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+23:35:37.114 [Expansion Quests] Sending player quest data for 0 quests to player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+23:35:37.675 [AI Patrol 00022] Spawning 1 Elektrozavodsk North-East (Guards) bots at <10576.979492, 6.148991, 2050.905762>
+23:35:37.818 [AI Patrol 00022] Global patrol count: 1
+23:35:37.819 [AI Patrol 00022] Global Expansion AI count: 1 alive, 0 deceased
+23:35:37.819 [AI Patrol 00022] Survivor category patrol count: 1
+23:35:37.858 [AI Patrol 00017] Spawning 1 Berezino South-East (Lunatics) bots at <13005.946289, 5.827181, 9568.704102>
+23:35:37.883 [AI Patrol 00017] Global patrol count: 2
+23:35:37.884 [AI Patrol 00017] Global Expansion AI count: 2 alive, 0 deceased
+23:35:37.884 [AI Patrol 00017] Survivor category patrol count: 2
+23:35:37.884 [AI Patrol 00018] Spawning 1 Nizhneye North-East (Lunatics) bots at <12942.525391, 4.589160, 8523.649414>
+23:35:37.911 [AI Patrol 00018] Global patrol count: 3
+23:35:37.911 [AI Patrol 00018] Global Expansion AI count: 3 alive, 0 deceased
+23:35:37.912 [AI Patrol 00018] Survivor category patrol count: 3
+23:35:37.912 [AI Patrol 00014] Spawning 1 Svetloyarsk South-East (West) bots at <14089.254883, 6.629246, 13036.227539>
+23:35:37.937 [AI Patrol 00014] Global patrol count: 4
+23:35:37.937 [AI Patrol 00014] Global Expansion AI count: 4 alive, 0 deceased
+23:35:37.937 [AI Patrol 00014] Survivor category patrol count: 4
+23:35:37.938 [AI Patrol 00024] Spawning 1 Chernogorsk (Raiders) bots at <6063.018555, 7.998339, 1931.907227>
+23:35:37.964 [AI Patrol 00024] Global patrol count: 5
+23:35:37.964 [AI Patrol 00024] Global Expansion AI count: 5 alive, 0 deceased
+23:35:37.964 [AI Patrol 00024] Survivor category patrol count: 5
+23:35:38.003 [AI Patrol 00015] Spawning 1 Berezino North-East (East) bots at <13200.238281, 6.076854, 10538.880859>
+23:35:38.030 [AI Patrol 00015] Global patrol count: 6
+23:35:38.031 [AI Patrol 00015] Global Expansion AI count: 6 alive, 0 deceased
+23:35:38.031 [AI Patrol 00015] Survivor category patrol count: 6
+23:35:38.032 [AI Patrol 00016] Spawning 1 Berezino North (Lunatics) bots at <12592.173828, 37.214073, 10401.323242>
+23:35:38.051 [AI Patrol 00016] Global patrol count: 7
+23:35:38.051 [AI Patrol 00016] Global Expansion AI count: 7 alive, 0 deceased
+23:35:38.052 [AI Patrol 00016] Survivor category patrol count: 7
+23:35:38.267 [AI Patrol 00020] Spawning 1 Solnechny South (West) bots at <13425.271484, 5.409149, 5776.353027>
+23:35:38.288 [AI Patrol 00020] Global patrol count: 8
+23:35:38.289 [AI Patrol 00020] Global Expansion AI count: 8 alive, 0 deceased
+23:35:38.289 [AI Patrol 00020] Survivor category patrol count: 8
+23:35:38.327 [AI Patrol 00023] Spawning 1 Chernogorsk East (Raiders) bots at <8747.670898, 6.937114, 2357.187012>
+23:35:38.350 [AI Patrol 00023] Global patrol count: 9
+23:35:38.351 [AI Patrol 00023] Global Expansion AI count: 9 alive, 0 deceased
+23:35:38.351 [AI Patrol 00023] Survivor category patrol count: 9
+23:35:38.387 [AI Patrol 00019] Spawning 1 Solnechny (West) bots at <13461.267578, 4.204414, 6486.883301>
+23:35:38.407 [AI Patrol 00019] Global patrol count: 10
+23:35:38.408 [AI Patrol 00019] Global Expansion AI count: 10 alive, 0 deceased
+23:35:38.408 [AI Patrol 00019] Survivor category patrol count: 10
+23:35:38.445 [AI Patrol 00021] Spawning 1 Kamyshovo (East) bots at <11930.805664, 6.292960, 3484.882324>
+23:35:38.459 [AI Patrol 00021] Global patrol count: 11
+23:35:38.460 [AI Patrol 00021] Global Expansion AI count: 11 alive, 0 deceased
+23:35:38.461 [AI Patrol 00021] Survivor category patrol count: 11
+23:35:50.109 [VehicleDeleted] OffroadHatchback (id=49FE7A1164482A6DD526C0AB0EDEC999 pos=<4283.02, 326.03, 5455.82>)
+23:35:50.110 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:35:50.111 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:35:50.112 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:35:50.112 [Expansion Quests] Created new quest instance with instance key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= for quest with ID=777
+23:37:37.862 [AI Patrol 00015] Berezino North-East (East) bots were wiped out (spawn position <13200.238281, 6.076854, 10538.880859>, 1/1 deceased)
+23:37:37.862 [AI Patrol 00015] Global patrol count: 10
+23:37:37.863 [AI Patrol 00015] Global Expansion AI count: 10 alive, 1 deceased
+23:37:37.864 [AI Patrol 00015] Survivor category patrol count: 10
+23:38:07.943 [AI Object Patrol 00026] Spawning 1 West bots at <2510.633545, 195.594894, 5197.562500>
+23:38:07.967 [AI Object Patrol 00026] Global patrol count: 11
+23:38:07.967 [AI Object Patrol 00026] Global Expansion AI count: 11 alive, 1 deceased
+23:38:07.968 [AI Object Patrol 00026] MilitaryStatic category patrol count: 1
+23:38:22.483 [AI Patrol 00025] Spawning 1 Bandidos do Mercado (Shamans) bots at <3314.731934, 239.731720, 4992.533203>
+23:38:22.515 [AI Patrol 00025] Global patrol count: 12
+23:38:22.515 [AI Patrol 00025] Global Expansion AI count: 12 alive, 1 deceased
+23:38:22.516 [AI Patrol 00025] Quest category patrol count: 1
+23:39:00.447 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:39:00.448 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:39:00.449 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:39:10.427 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:39:10.427 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:39:10.428 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:39:20.429 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:39:20.429 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:39:20.430 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:39:30.428 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:39:30.428 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:39:30.429 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:39:40.428 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:39:40.429 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:39:40.430 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:39:50.430 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:39:50.430 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:39:50.431 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:40:00.429 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:40:00.430 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:40:00.431 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:40:10.429 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:40:10.429 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:40:10.431 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:40:20.429 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:40:20.429 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:40:20.430 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:40:28.057 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:40:28.058 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:40:28.059 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:40:30.429 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:40:30.429 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:40:30.430 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:40:47.937 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:40:47.937 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:40:47.949 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:40:47.951 [Expansion Quests] Player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= has completed quest with ID=777
+23:41:05.003 [VehicleDeleted] OffroadHatchback (id=1C8856F1A646020C589316B63AED75BF pos=<5855.61, 137.28, 4692.72>)
+23:41:31.160 [VehicleDeleted] OffroadHatchback (id=149D4E70FD4EA2798EB3AB80BE7DE640 pos=<4284.82, 326.03, 5454>)
+23:41:31.160 [Expansion Quests] Added new objective data for type=AICAMP | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=777
+23:41:31.161 [Expansion Quests] Added new objective data for type=AIESCORT | Key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | ID=778
+23:41:31.162 [Expansion Quests] Updated and saved persistent player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= | Quest ID=777
+23:41:31.162 [Expansion Quests] Created new quest instance with instance key=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= for quest with ID=777
+23:42:42.644 [Expansion Quests] Deleted quest with ID=777 is a of player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=.

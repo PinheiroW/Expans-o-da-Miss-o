@@ -1,0 +1,13 @@
+{
+  "ConfigVersion": 6,
+  "ID": 3,
+  "ClassName": "ExpansionQuestNPCMirek",
+  "Position": [5861.835938, 138.934586, 4678.971680],
+  "Orientation": [0.0, 0.0, 0.0],
+  "NPCName": "Oficial de Extração",
+  "DefaultNPCText": "Aguardando o VIP.",
+  "NPCLoadoutFile": "RefemLoadout",
+  "NPCType": 0,
+  "QuestIDs": [],
+  "Active": 1
+}

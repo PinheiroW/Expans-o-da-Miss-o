@@ -1,0 +1,38 @@
+{
+    "ClassName": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "TShirt_OrangeWhiteStripe",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [ { "Min": 0.1, "Max": 0.2, "Zone": "" } ],
+                    "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "SlacksPants_Orange",
+                    "Chance": 1.0,
+                    "Quantity": { "Min": 0.0, "Max": 0.0 },
+                    "Health": [ { "Min": 0.1, "Max": 0.2, "Zone": "" } ],
+                    "InventoryAttachments": [], "InventoryCargo": [], "ConstructionPartsBuilt": [], "Sets": []
+                }
+            ]
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+}

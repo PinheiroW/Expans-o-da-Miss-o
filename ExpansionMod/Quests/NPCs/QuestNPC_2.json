@@ -1,0 +1,13 @@
+{
+  "ConfigVersion": 6,
+  "ID": 2,
+  "ClassName": "ExpansionQuestNPCElias",
+  "Position": [4311.329102, 321.532928, 5417.958008],
+  "Orientation": [-50.409969, 0.000000, 0.000000],
+  "NPCName": "Clark",
+  "DefaultNPCText": "O que queres? Estou ocupado interceptando sinais...",
+  "NPCLoadoutFile": "MulticamBlackLoadout",
+  "NPCType": 0,
+  "QuestIDs": [779],
+  "Active": 1
+}

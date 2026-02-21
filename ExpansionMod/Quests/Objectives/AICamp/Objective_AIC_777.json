@@ -1,0 +1,84 @@
+{
+    "ConfigVersion": 28,
+    "ID": 777,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Elimine os Bandidos no mercado de Drozhino.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "InfectedDeletionRadius": 50.0,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [],
+    "AISpawns": [
+        {
+            "Name": "Bandidos do Mercado",
+            "Persist": 0,
+            "Faction": "Shamans",
+            "Formation": "RANDOM",
+            "FormationScale": 0.0,
+            "FormationLooseness": 0.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 1,
+            "NumberOfAIMax": 0,
+            "Behaviour": "HALT_OR_LOOP",
+            "LootingBehaviour": "",
+            "Speed": "RANDOM_NONSTATIC",
+            "UnderThreatSpeed": "SPRINT",
+            "DefaultStance": "",
+            "DefaultLookAngle": 0.0,
+            "CanBeLooted": 1,
+            "LootDropOnDeath": "",
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": 0.5,
+            "AccuracyMax": 0.800000011920929,
+            "ThreatDistanceLimit": 200.0,
+            "NoiseInvestigationDistanceLimit": 100.0,
+            "MaxFlankingDistance": 0.0,
+            "EnableFlankingOutsideCombat": 0,
+            "DamageMultiplier": 1.0,
+            "DamageReceivedMultiplier": 1.0,
+            "HeadshotResistance": 0.0,
+            "ShoryukenChance": 0.0,
+            "ShoryukenDamageMultiplier": 0.0,
+            "CanSpawnInContaminatedArea": 0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 30.0,
+            "MaxDistRadius": 80.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 15.0,
+            "Chance": 1.0,
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "LoadBalancingCategory": "",
+            "ObjectClassName": "",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3330.4599609375,
+                    239.00999450683595,
+                    4964.56005859375
+                ],
+                [
+                    3321.1201171875,
+                    238.92999267578126,
+                    4961.68994140625
+                ],
+                [
+                    3311.429931640625,
+                    238.27999877929688,
+                    4962.47021484375
+                ],
+                [
+                    3305.719970703125,
+                    238.5500030517578,
+                    4982.169921875
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "ConfigVersion": 28,
+  "ID": 800,
+  "ObjectiveType": 3,
+  "ObjectiveText": "Vá até aos destroços do helicóptero.",
+  "Active": 1,
+  "Position": [3820.0, 312.0, 8910.0],
+  "MaxDistance": 100.0,
+  "MarkerName": "Helicóptero Abatido",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1
+}

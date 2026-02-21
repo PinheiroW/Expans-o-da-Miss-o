@@ -1,0 +1,19 @@
+{
+  "ConfigVersion": 28,
+  "ID": 778,
+  "ObjectiveType": 9,
+  "ObjectiveText": "Resgate a Gabi e escolte-a até Nadezhdino.",
+  "TimeLimit": -1,
+  "Active": 1,
+  "Position": [3316.781982, 239.425201, 4973.732910],
+  "MaxDistance": 20.0,
+  "MinDistance": -1.0,
+  "MarkerName": "Extração: Nadezhdino",
+  "ShowDistance": 1,
+  "TriggerOnEnter": 1,
+  "TriggerOnExit": 0,
+  "CanLootAI": 0,
+  "NPCLoadoutFile": "RefemLoadout",
+  "NPCClassName": "ExpansionQuestNPCAIGabi",
+  "NPCName": "Gabi (Refém)"
+}
