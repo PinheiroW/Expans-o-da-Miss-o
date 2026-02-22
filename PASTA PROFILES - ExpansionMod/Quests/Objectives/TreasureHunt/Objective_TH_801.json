@@ -1,0 +1,49 @@
+{
+  "ConfigVersion": 28,
+  "ID": 801,
+  "ObjectiveType": 6,
+  "ObjectiveText": "Encontra e desenterra o Cofre do Cartel",
+  "TimeLimit": -1,
+  "Active": 1,
+  "ShowDistance": 1,
+  "ContainerName": "ExpansionQuestSeaChest",
+  "DigInStash": 1,
+  "MarkerName": "Cofre do Cartel",
+  "MarkerVisibility": 4,
+  "Positions": [
+    [
+      2604.806396, 4.156477, 1869.525024
+    ]
+  ],
+  "LootItemsAmount": 3,
+  "MaxDistance": 10,
+  "Loot": [
+    {
+      "Name": "GoldBar",
+      "Chance": 1.0,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    {
+      "Name": "AKM",
+      "Chance": 1.0,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    },
+    {
+      "Name": "AmmoBox_762x39_20Rnd",
+      "Chance": 1.0,
+      "Attachments": [],
+      "QuantityPercent": -1,
+      "Max": -1,
+      "Min": 0,
+      "Variants": []
+    }
+  ]
+}

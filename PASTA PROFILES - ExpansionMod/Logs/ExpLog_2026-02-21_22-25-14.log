@@ -1,0 +1,68 @@
+22:25:21.063 [Expansion Quests] Quest configuration with ID=133 is set to inactive. Skip adding config to quest system..
+22:26:53.056 [Expansion Quests] Initialize quest system on the connected client with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+22:26:53.057 [Expansion Quests] Loaded existing player quest data for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+22:26:53.058 [Expansion Quests] Check quest initialization for quest with ID=800 | State=NONE | Player UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+22:26:53.059 [Expansion Quests] Check quest initialization for quest with ID=801 | State=COMPLETED | Player UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+22:26:53.059 [Expansion Quests] Check quest initialization for quest with ID=802 | State=COMPLETED | Player UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+22:26:53.061 [Expansion Quests] Sending gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM= quest configs to client for player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+22:26:53.062 [Expansion Quests] Sending player quest data for 3 quests to player with UID=gy_2_9QGetczRuJF-G5_jusM0qdITbSngdhMXbxDEkM=
+22:26:53.104 [AI Patrol 00021] Loaded 1 persistent Chernogorsk (Infected) bots at <6461.000488, 321.112396, 6143.622070>
+22:26:53.105 [AI Patrol 00021] Global patrol count: 1
+22:26:53.105 [AI Patrol 00021] Global Expansion AI count: 2 alive, 0 deceased
+22:26:53.105 [AI Patrol 00021] Survivor category patrol count: 1
+22:26:53.148 [AI Patrol 00013] Loaded 1 persistent Berezino South-East (East) bots at <12896.368164, 6.646640, 10038.961914>
+22:26:53.148 [AI Patrol 00013] Global patrol count: 2
+22:26:53.149 [AI Patrol 00013] Global Expansion AI count: 3 alive, 0 deceased
+22:26:53.149 [AI Patrol 00013] Survivor category patrol count: 2
+22:26:53.187 [AI Patrol 00016] Loaded 1 persistent Solnechny South (Lunatics) bots at <11236.161133, 76.006584, 6584.685059>
+22:26:53.187 [AI Patrol 00016] Global patrol count: 3
+22:26:53.188 [AI Patrol 00016] Global Expansion AI count: 4 alive, 0 deceased
+22:26:53.188 [AI Patrol 00016] Survivor category patrol count: 3
+22:26:53.212 [AI Patrol 00009] Loaded 1 persistent Berezino North-East (West) bots at <13084.861328, 6.189751, 10359.289063>
+22:26:53.213 [AI Patrol 00009] Global patrol count: 4
+22:26:53.213 [AI Patrol 00009] Global Expansion AI count: 5 alive, 0 deceased
+22:26:53.214 [AI Patrol 00009] Survivor category patrol count: 4
+22:26:53.250 [AI Patrol 00015] Loaded 1 persistent Solnechny (Civilian) bots at <10639.603516, 211.056076, 8092.712891>
+22:26:53.251 [AI Patrol 00015] Global patrol count: 5
+22:26:53.251 [AI Patrol 00015] Global Expansion AI count: 6 alive, 0 deceased
+22:26:53.251 [AI Patrol 00015] Survivor category patrol count: 5
+22:26:53.279 [AI Patrol 00020] Loaded 1 persistent Prigorodki South-East (Infected) bots at <6910.724121, 45.292061, 3531.218262>
+22:26:53.280 [AI Patrol 00020] Global patrol count: 6
+22:26:53.280 [AI Patrol 00020] Global Expansion AI count: 7 alive, 0 deceased
+22:26:53.280 [AI Patrol 00020] Survivor category patrol count: 6
+22:26:53.313 [AI Patrol 00010] Loaded 1 persistent Berezino North (West) bots at <12924.043945, 6.004988, 10168.486328>
+22:26:53.314 [AI Patrol 00010] Global patrol count: 7
+22:26:53.314 [AI Patrol 00010] Global Expansion AI count: 8 alive, 0 deceased
+22:26:53.314 [AI Patrol 00010] Survivor category patrol count: 7
+22:26:53.352 [AI Patrol 00007] Loaded 1 persistent Svetloyarsk (Infected) bots at <13493.801758, 74.095337, 14956.298828>
+22:26:53.353 [AI Patrol 00007] Global patrol count: 8
+22:26:53.353 [AI Patrol 00007] Global Expansion AI count: 9 alive, 0 deceased
+22:26:53.354 [AI Patrol 00007] Survivor category patrol count: 8
+22:26:53.388 [AI Patrol 00011] Loaded 1 persistent Solnechny North (Raiders) bots at <11090.851563, 98.889862, 10246.337891>
+22:26:53.389 [AI Patrol 00011] Global patrol count: 9
+22:26:53.389 [AI Patrol 00011] Global Expansion AI count: 10 alive, 0 deceased
+22:26:53.389 [AI Patrol 00011] Survivor category patrol count: 9
+22:26:53.420 [AI Patrol 00012] Loaded 1 persistent Berezhki (Infected) bots at <13565.756836, 5.637690, 13794.935547>
+22:26:53.420 [AI Patrol 00012] Global patrol count: 10
+22:26:53.421 [AI Patrol 00012] Global Expansion AI count: 11 alive, 0 deceased
+22:26:53.421 [AI Patrol 00012] Survivor category patrol count: 10
+22:26:53.455 [AI Patrol 00018] Loaded 1 persistent Elektrozavodsk West (Lunatics) bots at <5902.860840, 159.344376, 4553.718750>
+22:26:53.456 [AI Patrol 00018] Global patrol count: 11
+22:26:53.456 [AI Patrol 00018] Global Expansion AI count: 12 alive, 0 deceased
+22:26:53.456 [AI Patrol 00018] Survivor category patrol count: 11
+22:26:53.474 [AI Patrol 00014] Loaded 1 persistent Nizhneye North-East (Mercenaries) bots at <11565.896484, 69.870003, 6592.717773>
+22:26:53.475 [AI Patrol 00014] Global patrol count: 12
+22:26:53.475 [AI Patrol 00014] Global Expansion AI count: 13 alive, 0 deceased
+22:26:53.475 [AI Patrol 00014] Survivor category patrol count: 12
+22:26:53.497 [AI Patrol 00008] Loaded 1 persistent Svetloyarsk South-East (West) bots at <11574.748047, 56.914997, 14558.712891>
+22:26:53.498 [AI Patrol 00008] Global patrol count: 13
+22:26:53.498 [AI Patrol 00008] Global Expansion AI count: 14 alive, 0 deceased
+22:26:53.498 [AI Patrol 00008] Survivor category patrol count: 13
+22:26:53.536 [AI Patrol 00019] Loaded 1 persistent Chernogorsk East (Infected) bots at <5207.846191, 285.892822, 6395.937500>
+22:26:53.536 [AI Patrol 00019] Global patrol count: 14
+22:26:53.537 [AI Patrol 00019] Global Expansion AI count: 15 alive, 0 deceased
+22:26:53.537 [AI Patrol 00019] Survivor category patrol count: 14
+22:26:53.560 [AI Patrol 00017] Loaded 1 persistent Kamyshovo (Infected) bots at <10020.367188, 6.034781, 2002.664063>
+22:26:53.560 [AI Patrol 00017] Global patrol count: 15
+22:26:53.560 [AI Patrol 00017] Global Expansion AI count: 16 alive, 0 deceased
+22:26:53.561 [AI Patrol 00017] Survivor category patrol count: 15

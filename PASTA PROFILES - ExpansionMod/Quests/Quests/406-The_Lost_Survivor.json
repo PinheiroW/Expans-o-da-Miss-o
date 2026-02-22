@@ -1,0 +1,65 @@
+{
+  "ConfigVersion": 22,
+  "ID": 406,
+  "Type": 1,
+  "Title": "O Sobrevivente Perdido (Parte 2)",
+  "Descriptions": [
+    "Eu... eu não achei que fosse sobreviver. Meu nome é Hassan. Eu era apenas um pescador, no mar, quando a tempestade veio — violenta, repentina. Meu barco não teve a menor chance. A próxima coisa de que me lembro é de acordar numa costa fria... amarrado, com sangue seco no rosto. Bandidos. Não sei quanto tempo fiquei apagado, mas eles me mantiveram vivo — por enquanto. Enquanto eles estavam desmaiados de bebida ou do que quer que tenham tomado, encontrei uma velha torre de rádio aqui perto. Consegui enviar um sinal para o acampamento. Era a minha única chance. Estou fraco. Perdido. Já nem sei mais que lugar é este. Mas se você conseguir me levar para aquele acampamento — se você me ajudar a escapar — tem um esconderijo lá. Suprimentos que enterrei antes de tudo isso. São seus se me tirar daqui vivo.",
+    "...",
+    "Obrigado por me trazer até aqui %1..."
+  ],
+  "ObjectiveText": "Escolte o \"Hassan\" até o Acampamento de Sobreviventes.",
+  "FollowUpQuest": -1,
+  "Repeatable": 1,
+  "IsDailyQuest": 0,
+  "IsWeeklyQuest": 1,
+  "CancelQuestOnPlayerDeath": 1,
+  "Autocomplete": 0,
+  "IsGroupQuest": 0,
+  "ObjectSetFileName": "",
+  "QuestItems": [],
+  "Rewards": [
+    {
+      "ClassName": "MMG_mmps_bag_multicam_tropic",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": 1,
+      "Chance": 0
+    },
+    {
+      "ClassName": "PunchedCard",
+      "Amount": 1,
+      "Attachments": [],
+      "DamagePercent": 0,
+      "HealthPercent": 0,
+      "QuestID": 1,
+      "Chance": 0
+    }
+  ],
+  "NeedToSelectReward": 0,
+  "RandomReward": 0,
+  "RandomRewardAmount": 0,
+  "RewardsForGroupOwnerOnly": 0,
+  "RewardBehavior": 0,
+  "QuestGiverIDs": [ 4003 ],
+  "QuestTurnInIDs": [ 1 ],
+  "IsAchievement": 0,
+  "Objectives": [
+    { "ConfigVersion": 28, "ID": 6, "ObjectiveType": 9 }
+  ],
+  "QuestColor": 0,
+  "ReputationReward": 2000,
+  "ReputationRequirement": 0,
+  "PreQuestIDs": [ 133 ],
+  "RequiredFaction": "",
+  "FactionReward": "",
+  "PlayerNeedQuestItems": 1,
+  "DeleteQuestItems": 1,
+  "SequentialObjectives": 1,
+  "FactionReputationRequirements": {},
+  "FactionReputationRewards": {},
+  "SuppressQuestLogOnCompetion": 0,
+  "Active": 1
+}

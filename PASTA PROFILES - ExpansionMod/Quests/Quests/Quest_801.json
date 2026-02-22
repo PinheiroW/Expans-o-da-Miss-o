@@ -1,0 +1,29 @@
+{
+  "ConfigVersion": 22,
+  "ID": 801,
+  "Type": 1,
+  "Title": "Norman: O Cofre do Cartel",
+  "Descriptions": [
+    "A nossa inteligência confirmou que um dos tenentes do cartel enterrou um baú com fundos ilícitos e armamento pesado. Pega numa pá, segue as coordenadas que te enviei e desenterra esse cofre antes que eles voltem para o buscar.",
+    "Procura a terra remexida na área marcada. Vais precisar de uma pá ou picareta para chegar ao baú.",
+    "Excelente trabalho. O conteúdo desse cofre vai financiar as nossas próximas operações. Aqui está a tua parte."
+  ],
+  "QuestGiverIDs": [1],
+  "QuestTurnInIDs": [1],
+  "Objectives": [
+    {
+      "ConfigVersion": 28,
+      "ID": 801,
+      "ObjectiveType": 6
+    }
+  ],
+  "Rewards": [
+    {
+      "ClassName": "ExpansionBanknoteUSD",
+      "Amount": 500,
+      "Chance": 1.0
+    }
+  ],
+  "ReputationReward": 200,
+  "Active": 1
+}
