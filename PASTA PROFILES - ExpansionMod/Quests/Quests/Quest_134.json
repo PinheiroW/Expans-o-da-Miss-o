@@ -1,15 +1,15 @@
 {
   "ConfigVersion": 22,
-  "ID": 133,
+  "ID": 134,
   "Type": 1,
-  "Title": "O Sobrevivente Perdido (Parte 1)",
+  "Title": "Queda do Piloto",
   "Descriptions": [
-    "Preciso da sua ajuda para encontrar um sobrevivente desaparecido. Posso contar com você? Esta é a última localização conhecida dele. Mas vá preparado — este sobrevivente foi sequestrado. Provavelmente você vai precisar de equipamentos... e transporte. Isso não vai ser fácil.",
-    "Vá para a localização marcada e encontre o sobrevivente sequestrado.",
-    "Obrigado. Você salvou nossos sobreviventes dos hostis — eles devem a vida a você."
+    "Há uns dias, durante aquela terrível tempestade, um avião que transportava sobreviventes desapareceu. Foi visto pela última vez a dirigir-se para esta zona antes de sumir dos céus.",
+    "Esta é a última localização conhecida. Se tiveres coragem, vai até lá e tenta descobrir o que aconteceu... talvez alguém ainda esteja vivo, ou talvez só restem destroços.",
+    "Obrigado."
   ],
-  "ObjectiveText": "Viaje para a última localização conhecida.",
-  "FollowUpQuest": 406,
+  "ObjectiveText": "Viaja para a última localização conhecida.",
+  "FollowUpQuest": 407,
   "Repeatable": 1,
   "IsDailyQuest": 0,
   "IsWeeklyQuest": 1,
@@ -25,11 +25,11 @@
   "RewardsForGroupOwnerOnly": 1,
   "RewardBehavior": 0,
   "QuestGiverIDs": [ 2 ],
-  "QuestTurnInIDs": [ 4003 ],
+  "QuestTurnInIDs": [ 4004 ],
   "IsAchievement": 0,
   "Objectives": [
-    { "ConfigVersion": 28, "ID": 73, "ObjectiveType": 3 },
-    { "ConfigVersion": 28, "ID": 73, "ObjectiveType": 8 }
+    { "ConfigVersion": 28, "ID": 74, "ObjectiveType": 3 },
+    { "ConfigVersion": 28, "ID": 74, "ObjectiveType": 8 } 
   ],
   "QuestColor": 0,
   "ReputationReward": 500,

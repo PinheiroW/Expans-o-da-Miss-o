@@ -1,8 +1,8 @@
 {
     "ConfigVersion": 28,
-    "ID": 802,
+    "ID": 74,
     "ObjectiveType": 8,
-    "ObjectiveText": "Elimina os Bandidos que estão a guardar o Hassan",
+    "ObjectiveText": "Elimina os saqueadores que cercaram o piloto.",
     "TimeLimit": -1,
     "Active": 1,
     "InfectedDeletionRadius": 50.0,
@@ -12,9 +12,9 @@
     "AllowedDamageZones": [],
     "AISpawns": [
         {
-            "Name": "Guarda do Cartel",
+            "Name": "Saqueador",
             "Persist": 0,
-            "Faction": "Bandits",
+            "Faction": "Shamans",
             "Formation": "RANDOM",
             "FormationScale": 0.0,
             "FormationLooseness": 5.0,
@@ -63,19 +63,19 @@
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3700.0,
-                    402.010009765625,
-                    5990.0
+                    8785.0,
+                    141.9499969482422,
+                    2928.0
                 ],
                 [
-                    3710.0,
-                    402.010009765625,
-                    5980.0
+                    8770.0,
+                    141.9499969482422,
+                    2920.0
                 ],
                 [
-                    3715.0,
-                    402.010009765625,
-                    5995.0
+                    8780.0,
+                    141.9499969482422,
+                    2915.0
                 ]
             ]
         }

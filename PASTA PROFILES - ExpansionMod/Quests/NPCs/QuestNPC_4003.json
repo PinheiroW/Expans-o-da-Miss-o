@@ -18,5 +18,6 @@
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
     "NPCType": 2,
+    "QuestIDs": [ 406 ],
     "Active": 1
 }

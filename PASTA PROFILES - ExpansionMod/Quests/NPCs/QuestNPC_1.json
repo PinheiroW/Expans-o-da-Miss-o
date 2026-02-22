@@ -8,6 +8,11 @@
   "DefaultNPCText": "Precisamos de ajuda tática lá fora.",
   "NPCLoadoutFile": "NBCLoadout",
   "NPCType": 0,
-  "QuestIDs": [777, 779, 800, 801, 802],
+  "QuestIDs": [
+    777,
+    779,
+    800,
+    801
+  ],
   "Active": 1
 }

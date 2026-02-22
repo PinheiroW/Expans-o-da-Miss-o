@@ -8,6 +8,11 @@
   "DefaultNPCText": "O que queres? Estou ocupado interceptando sinais...",
   "NPCLoadoutFile": "MulticamBlackLoadout",
   "NPCType": 0,
-  "QuestIDs": [133],
+  "QuestIDs": [
+    133,
+    134,
+    135,
+    136
+  ],
   "Active": 1
 }
